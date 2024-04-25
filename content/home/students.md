@@ -47,7 +47,7 @@ design:
 - [Rohan Patil](https://rohanpatil.me/), Multi-Robot Planning Using Game Theory
 - [Luobin Wang](), Behavior Planning for Autonomous Vehicles
 - [Zihan Zhang](https://www.linkedin.com/in/zihan-zhang-368469230/), Intent Recognition for Autonomous Vehicles
-- [Jing-Yan Liang](), Prediction and Tracking in Urban Environments
+- [Jing-Yan Liao](https://www.linkedin.com/in/jingyanliao/), Prediction and Tracking in Urban Environments
 - [Seth Farrell](https://www.linkedin.com/in/sethfarrell/), Micro-Mobility Systems for Urban Environments
 - [Yiding Qiu](https://www.linkedin.com/in/cassieqiuyd/), Graphical Mapping for Domestic Environments
 - [Julian Raheema](https://www.linkedin.com/in/julian-raheema-07827310/), Autonomy for Field Robots
