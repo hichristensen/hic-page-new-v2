@@ -4,7 +4,7 @@
 title: "Household navigation and manipulation for everyday object rearrangement tasks"
 authors: [Shrutheesh R. Iyer, Anwesan Pal, Jiaming Hu, Akanimoh Adeleye, Aditya Aggarwal, Henrik I. Christensen]
 date: 2023-12-27T16:40:38-07:00
-doi: "https://doi.org/10.48550/arXiv.2312.06129"
+doi: "10.48550/arXiv.2312.06129"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-12-27T16:40:38-07:00
