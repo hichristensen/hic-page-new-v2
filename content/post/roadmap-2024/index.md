@@ -47,3 +47,23 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+It has been a year in the making, but finally the 2024 version of the ``US
+National Robotics Roadmap'' is ready for public consumption. With an amazing team
+of collaborators from across the nation we have generated an update to the
+document. It takes a village to do the update. We had 100+ white papers
+submitted with input about research, business cases and opportunities. The
+roadmap is based on three workshops in Philadelphia, Austin and Phoenix. The
+world is rapidly changing. Artificial Intelligence is gaining traction and
+robotics is the embodiment of these systems. Progress in natural language system
+and computer vision allows design of easier to use systems and machine learning
+add a new dimension to learning by demonstration and robust autonomy over time.
+
+The roadmap outlines - mega-trends (how the world is changing), major business
+opportunities, obstacles to progress, and issues to be addressed in terms of
+research, training, and translation.
+
+We gratefully acknowledge the support by host universities, the Computing Community
+Consortium (CCC) and the Engineering Visioning Research Alliance (ERVA). Obviously, this work would not have been possible without the broad participation from the community.  
+
+The [2024 roadmap](https://hichristensen.com/pdf/roadmap-2024.pdf) is available
+from our web site and shortly also from the CCC and ERVA websites.
