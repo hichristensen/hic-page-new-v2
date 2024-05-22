@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "Motion Planning in Foliated Manifolds using Repetition Roadmap"
-authors: [Jiaming Hu, Joel Wong, Shruteesh Vankatramani and Henrik I Christensen]
+authors: [J. Hu, J. Wong,  S. R. Iyer and H. I. Christensen]
 date: 2024-05-18T19:59:41+09:00
 doi: ""
 
