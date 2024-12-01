@@ -3,7 +3,7 @@
 
 title: "CSE276C"
 subtitle: ""
-summary: "Math for Robotics is a broad introduction to key mathematical concepts used in robotics. The course is taught Falls TTH 6:30-7:50"
+summary: "Math for Robotics is a broad introduction to key mathematical concepts used in robotics. The course is taught Falls TTH 5:00-6:20"
 authors: [Henrik I. Christensen]
 tags: []
 categories: []
@@ -13,7 +13,7 @@ featured: false
 draft: false
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://hichristensen.com/CSE276C-23"
+external_link: "https://hichristensen.com/CSE276C-24"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

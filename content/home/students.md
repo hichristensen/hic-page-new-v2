@@ -40,14 +40,14 @@ design:
   view: 1
 ---
 
-- [Andi Frank](https://www.linkedin.com/in/aefrank/), Affordance Based Planning
-- [Jiaming Hu](https://www.linkedin.com/in/jiaming-hu-a04a28171/), Planning using a set of manifolds
+<!--  [Andi Frank](https://www.linkedin.com/in/aefrank/), Affordance Based Planning -->
 - [Henry Zhang](https://henryzhangzhy.github.io/), Online Mapping
+- [Yiding Qiu](https://www.linkedin.com/in/cassieqiuyd/), Graphical Mapping for Domestic Environments
+- [Jiaming Hu](https://www.linkedin.com/in/jiaming-hu-a04a28171/), Planning using a set of manifolds
 - [Abdulaziz Almuzairee (Aziz)](https://aalmuzairee.github.io/) - Robust Robot Learning
+- Luobin Wang, Behavior Planning for Autonomous Vehicles
 - [Rohan Patil](https://rohanpatil.me/), Multi-Robot Planning Using Game Theory
-- [Luobin Wang](), Behavior Planning for Autonomous Vehicles
 - [Zihan Zhang](https://www.linkedin.com/in/zihan-zhang-368469230/), Intent Recognition for Autonomous Vehicles
 - [Jing-Yan Liao](https://www.linkedin.com/in/jingyanliao/), Prediction and Tracking in Urban Environments
 - [Seth Farrell](https://www.linkedin.com/in/sethfarrell/), Micro-Mobility Systems for Urban Environments
-- [Yiding Qiu](https://www.linkedin.com/in/cassieqiuyd/), Graphical Mapping for Domestic Environments
 - [Julian Raheema](https://www.linkedin.com/in/julian-raheema-07827310/), Autonomy for Field Robots

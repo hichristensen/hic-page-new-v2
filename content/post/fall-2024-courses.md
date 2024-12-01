@@ -1,20 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CSE276A"
-subtitle: ""
-summary: "CSE276A is the introduction to robotics graduate course taught in the CSE department at UCSD. The course is taught Fall Quarters Tuesdays and Thursdays 03:30-4:50. Details about the course is available [here](https://hichristensen.com/CSE276A-24)"
+title: "Fall 2024 Courses"
+subtitle: "Courses"
+summary: "Courses taught 2024. This is a list of the courses taught by Prof. Christensen during the Fall quarter at UCSD"
 authors: [Henrik I Christensen]
-tags: []
-categories: []
-date: 2023-06-10T15:02:07-07:00
-lastmod: 2023-09-09T15:02:07-07:00
+tags: [Courses]
+categories: [teaching]
+date: 2024-06-13T21:09:25-07:00
+lastmod: 2024-06-13T21:09:25-07:00
 featured: false
 draft: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: "https://hichristensen.com/CSE276A-24"
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -31,3 +27,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+During Fall 2024 the following courses are offered. 
+
+- [CSE 276A Introduction to Robotics](https://www.hichristensen.com/CSE276A-24) - TTH 3:30-4:50PM
+- [CSE 276C Math for Robotics](https://www.hichristensen.com/CSE276C-24) - TTH 5:00-6:20PM
+- [CSE 290 Topics in robotics](https://www.hichristensen.com/CSE290-F24) -- Thursday 11:00AM
+
+Detailed course information/material is available on canvas. 

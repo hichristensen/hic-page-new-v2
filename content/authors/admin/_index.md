@@ -82,12 +82,12 @@ Laboratory](http://avl.ucsd.edu)
 
 He is an academic doing research on robotics and artificial intelligence, the
 main editor of the [US National Robotics
-Roadmap](https://cra.org/ccc/visioning/robotics-roadmap/), and an entrepreneur.
+Roadmap](https://hichristensen.com/pdf/roadmap-2024.pdf), and an entrepreneur.
 He has co-founded multiple companies including [Robust.AI](https://robust.ai),
 Christensen Consulting Group, AeroScan, and [Intelligent
 Machines](https://intmach.com/). He is also engaged in investments in publicly
 traded companies and start-ups through companies such as [ROBO
-Global](www.roboglobal.com) (co-founder), [Calibrate
+Global](https://vettafi.com/issuer-services/indexing/disruptive-tech/robo-global-family/) (co-founder), [Calibrate
 Ventures](https://www.calibratevc.com/), [Interwoven](https://interwoven.vc) and [Spring Mountain
 Capital](https://springmountaincapital.com/) (advisor)
 
