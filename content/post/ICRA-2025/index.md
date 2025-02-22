@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "ICRA 2025 Papers"
-subtitle: "CogRob has three papers at [ICRA](https://2025.ieee-icra.org/) "
+subtitle: "[CogRob](https://cogrob.org) has three papers at [ICRA](https://2025.ieee-icra.org/) "
 summary: "we had three papers accepted at ICRA. Going to Atlanta, GA in May"
 authors: [ Henrik Christensen, ]
 tags: [conference]
