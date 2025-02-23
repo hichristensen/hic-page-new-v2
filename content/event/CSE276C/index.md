@@ -1,9 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CSE276C"
+title: "CSE276C - not offered 2025"
 subtitle: ""
-summary: "Math for Robotics is a broad introduction to key mathematical concepts used in robotics. The course is taught Falls TTH 5:00-6:20"
+summary: "Math for Robotics is a broad introduction to key mathematical concepts used in robotics. The course 
+  is usually taught Falls TTH 5:00-6:20"
 authors: [Henrik I. Christensen]
 tags: []
 categories: []

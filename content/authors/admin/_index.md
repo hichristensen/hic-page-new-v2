@@ -14,7 +14,7 @@ organizations:
     url: https://www.ucsd.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are related to a systems approach to robotics, AI, and perception
+bio: My research interest is a systems approach to robotics, AI, and perception
 
 # Interests to show in About widget
 interests:
@@ -46,9 +46,6 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=MA8rI0MAAAAJ
-#  - icon: bluesky
-#    icon_pack: fas
-#    link: https://bsky.app/profile/henrik-christensen.bsky.social
   - icon: github
     icon_pack: fab
     link: https://github.com/hichristensen
@@ -74,7 +71,7 @@ highlight_name: true
 Dr. Henrik I. Christensen is the Qualcomm Chancellor's Chair of Robot Systems
 and a Distinguished Professor of [Computer Science at Dept. of Computer Science
 and Engineering](https://cs.ucsd.edu), [UC San Diego](https://www.ucsd.edu). He
-is also the director of the [Contextual Robotics
+is the director of the [Contextual Robotics
 Institute](https://cri.ucsd.edu), the [Cognitive Robotics
 Laboratory](https://www.cogrob.org), and the [Autonomous Vehicle
 Laboratory](http://avl.ucsd.edu)
@@ -83,18 +80,20 @@ He is an academic doing research on robotics and artificial intelligence, the
 main editor of the [US National Robotics
 Roadmap](https://hichristensen.com/pdf/roadmap-2024.pdf), and an entrepreneur.
 He has co-founded multiple companies including [Robust.AI](https://robust.ai),
-Christensen Consulting Group, AeroScan, and [Intelligent
-Machines](https://intmach.com/). He is also engaged in investments in publicly
-traded companies and start-ups through companies such as [ROBO
-Global](https://vettafi.com/issuer-services/indexing/disruptive-tech/robo-global-family/) (co-founder), [Calibrate
-Ventures](https://www.calibratevc.com/), [Interwoven](https://interwoven.vc) and [Spring Mountain
+Christensen Consulting Group,
+[AeroScan](https://www.unitedsciences.com/pages/aeroscan) and Intelligent
+Machines. He is also engaged in investments in publicly traded companies and
+start-ups through companies such as [ROBO
+Global](https://vettafi.com/issuer-services/indexing/disruptive-tech/robo-global-family/)
+(co-founder), [Calibrate Ventures](https://www.calibratevc.com/),
+[Interwoven](https://interwoven.vc) and [Spring Mountain
 Capital](https://springmountaincapital.com/) (advisor)
 
 Dr. Christensen does research on robotics and AI, with an emphasis on
 a systems view to problems. The research has been published in 400+
 contributions across AI, Computer Vision, and Robotics. The research
 has been adopted by companies such as Electrolux, ABB, KUKA, Weda,
-BMW, Boeing, iRobot, PerMobil, General Motors, … He serves as a
-consultant to agencies and companies across four continents.
+BMW, Boeing, iRobot, PerMobil, General Motors, ... He serves as a
+advisor to agencies and companies across four continents.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "pdf/hiccv.pdf" "newtab" >}}resumé{{< /staticref >}}.
