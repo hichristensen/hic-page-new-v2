@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://hichristensen.com/publication/isrr-2024-niwc/SPOT_isrr19_format_2024.pdf
 url_code:
 url_dataset:
 url_poster:

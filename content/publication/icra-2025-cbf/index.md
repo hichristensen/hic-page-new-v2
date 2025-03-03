@@ -55,7 +55,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: http://hichristensen.com//publication/icra-2025-cbf/_ICRA_25__Offline_Barrier_Learning.pdf
 url_code:
 url_dataset:
 url_poster:
