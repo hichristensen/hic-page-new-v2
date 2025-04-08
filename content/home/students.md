@@ -41,7 +41,6 @@ design:
 ---
 
 <!--  [Andi Frank](https://www.linkedin.com/in/aefrank/), Affordance Based Planning -->
-- [Henry Zhang](https://henryzhangzhy.github.io/), Online Mapping
 - [Yiding Qiu](https://www.linkedin.com/in/cassieqiuyd/), Graphical Mapping for Domestic Environments
 - [Jiaming Hu](https://www.linkedin.com/in/jiaming-hu-a04a28171/), Planning using a set of manifolds
 - [Abdulaziz Almuzairee (Aziz)](https://aalmuzairee.github.io/) - Robust Robot Learning
