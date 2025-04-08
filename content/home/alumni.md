@@ -39,7 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-- [Henry Zhang](https://henryzhangzhy.github.io/), Online Mapping
+- [Henry Zhang](https://henryzhangzhy.github.io/) (Bosch Research), Online Mapping
 - Chris D’Ambrosia, MD - Human Performance Assessment
 - [Anwesan Pal](https://anwesanpal.github.io/) (AWS), Hybrid semantic models for building  home robots
 - [Akanimoh Adeleye](https://www.linkedin.com/in/aka-sanmi-adeleye/) (Start-up), Knowledge for Organizing Household Objects
