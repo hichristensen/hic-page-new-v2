@@ -23,7 +23,18 @@ date_format: 'Jan 2006'
 
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
+
 experience: 
+
+  - title: 'Fellow'
+    company: 'Temasek Holdings'
+    company_url: 'https://www.temasek.com.sg'
+    company_logo: org-gc
+    location: 'Singapore, Singapore'
+    date_start: '2025-04-01'
+    date_end: ''
+    description: 'Robotics and AI Advisor'
+
   - title: 'Co-Founder'
     company: 'Robust.AI'
     company_url: 'https://robust.ai'
