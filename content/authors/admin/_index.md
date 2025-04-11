@@ -87,7 +87,7 @@ start-ups through companies such as [ROBO
 Global](https://vettafi.com/issuer-services/indexing/disruptive-tech/robo-global-family/)
 (co-founder), [Calibrate Ventures](https://www.calibratevc.com/),
 [Interwoven](https://interwoven.vc) and [Spring Mountain
-Capital](https://springmountaincapital.com/) (advisor)
+Capital](https://springmountaincapital.com/) (advisor). Appointed a Fellow at [Temasek](https://www.temasek.com.sg), (April 2025). 
 
 Dr. Christensen does research on robotics and AI, with an emphasis on
 a systems view to problems. The research has been published in 400+
