@@ -39,6 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+- [Jiaming Hu](https://www.linkedin.com/in/jiaming-hu-a04a28171/), Constraint based planning using manifolds
 - [Henry Zhang](https://henryzhangzhy.github.io/) (Bosch Research), Online Mapping
 - Chris D’Ambrosia, MD - Human Performance Assessment
 - [Anwesan Pal](https://anwesanpal.github.io/) (AWS), Hybrid semantic models for building  home robots
