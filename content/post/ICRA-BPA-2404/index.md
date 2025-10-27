@@ -5,20 +5,7 @@ title: "ICRA Best Paper Award Nominations"
 subtitle: "Exciting"
 summary: "The Open X-Embodiment: Robotic Learning Datasets and RT-X
 Models paper on foundational models for manipulation and the dataset to train RT-1 and RT-2 has been nominated for Best Conference Paper, Best Manipulation and Best Student Paper awards at ICRA in Yokohama"
-authors: [Sergey Levine, Chelsea Finn, Ken Goldberg, Lawrence
-Yunliang Chen, Gaurav Sukhatme, Shivin Dass, Lerrel Pinto,
-Yuke Zhu, Yifeng Zhu, Shuran Song, Oier Mees, Deepak
-Pathak, Hao-Shu Fang, Henrik Iskov Christensen, Mingyu
-Ding, Youngwoon Lee, Dorsa Sadigh, Ilija Radosavovic,
-Jeannette Bohg, Xiaolong Wang, Xuanlin Li, Krishan Rana,
-Kento Kawaharazuka, Tatsuya Matsushima, Jihoon Oh, Takayuki
-Osa, Oliver Kroemer, Beomjoon Kim, Edward Johns, Freek
-Stulp, Jan Schneider, Jiajun Wu, Yunzhu Li, Heni Ben Amor,
-Lionel Ott, Roberto Martín-Martín, Karol Hausman, Quan
-Vuong, Pannag Sanketi, Nicolas Heess, Vincent Vanhoucke,
-Karl Pertsch, Stefan Schaal, Cheng Chi, Chuer Pan, Alex
-Bewley
-]
+authors: [Sergey Levine, Chelsea Finn, Ken Goldberg, Lawrence Chen, Gaurav Sukhatme, Shivin Dass, Lerrel Pinto, Yuke Zhu, Yifeng Zhu, Shuran Song, Oier Mees, Deepak Pathak, Hao-Shu Fang, Henrik Iskov Christensen, Mingyu Ding, Youngwoon Lee, Dorsa Sadigh, Ilija Radosavovic, Jeannette Bohg, Xiaolong Wang, Xuanlin Li, Krishan Rana, Kento Kawaharazuka, Tatsuya Matsushima, Jihoon Oh, Takayuki Osa, Oliver Kroemer, Beomjoon Kim, Edward Johns, Freek Stulp, Jan Schneider, Jiajun Wu, Yunzhu Li, Heni Ben Amor, Lionel Ott, Roberto Martín-Martín, Karol Hausman, Quan Vuong, Pannag Sanketi, Nicolas Heess, Vincent Vanhoucke, Karl Pertsch, Stefan Schaal, Cheng Chi, Chuer Pan, Alex Bewley ]
 tags: [ICRA, CogRob]
 categories: [post]
 date: 2024-04-05T12:56:22-07:00

@@ -41,7 +41,7 @@ experience:
     company_logo: org-gc
     location: 'San Carlos, California'
     date_start: '2019-04-01'
-    date_end: ''
+    date_end: '2025-10-31'
     description: 'Strategy / Business Development'
         
   - title:  'Distinguished Professor of Computer Science and Engineering'
