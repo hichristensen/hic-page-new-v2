@@ -24,7 +24,7 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: 'Estimation / ML / AI'
-  - description: 50%
+  - description: 60%
     icon: camera-retro
     icon_pack: fas
     name: Photography

@@ -32,7 +32,7 @@ experience:
     company_logo: org-gc
     location: 'Singapore, Singapore'
     date_start: '2025-04-01'
-    date_end: ''
+    date_end: '2026-03-31'
     description: 'Robotics and AI Advisor'
 
   - title: 'Co-Founder'
@@ -66,7 +66,7 @@ experience:
     company: 'Robo Global'
     company_url: 'https://roboglobal.com'
     company_logo: org-gc
-    location: Texas
+    location: New York
     date_start: '2014-03-01'
     date_end: ''
     description: 'Investments in Robotics, AI and Healthcare'

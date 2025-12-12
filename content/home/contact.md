@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: 'hichristensen@ucsd.edu'
-  phone: '858-260-0570'
+  phone: '+1 858-260-0570'
   address:
     street: 'Franklin Antonio Hall, Rm 3307,  UC San Diego'
     city: 'La Jolla'

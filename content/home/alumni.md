@@ -84,4 +84,3 @@ design:
 - [Steen Kristensen](https://www.linkedin.com/in/steen-kristensen-242503/) (NVIDIA), Sensor Planning for Robot Navigation
 - [Claus S. Andersen](https://www.linkedin.com/in/claus-siggaard-andersen-847474/) (GateHouse), A Framework for Control of a Camera Head
 - [Claus Madsen](https://www.linkedin.com/in/clmadsen/) (AAU), View Planning for Quantification of Local Geometry
-

@@ -41,7 +41,7 @@ design:
 ---
 
 <!--  [Andi Frank](https://www.linkedin.com/in/aefrank/), Affordance Based Planning -->
-- [Yiding Qiu](https://www.linkedin.com/in/cassieqiuyd/), Graphical Mapping for Domestic Environments
+<!-- [Yiding Qiu](https://www.linkedin.com/in/cassieqiuyd/), Graphical Mapping for Domestic Environments-->
 - [Abdulaziz Almuzairee (Aziz)](https://aalmuzairee.github.io/) - Robust Robot Learning
 - [Rohan Patil](https://rohanpatil.me/), Multi-Robot Planning Using Game Theory
 - [Seth Farrell](https://www.linkedin.com/in/sethfarrell/), Micro-Mobility Systems for Urban Environments
