@@ -66,7 +66,7 @@ experience:
     company: 'Robo Global'
     company_url: 'https://roboglobal.com'
     company_logo: org-gc
-    location: New York
+    location: 'New York, NY'
     date_start: '2014-03-01'
     date_end: ''
     description: 'Investments in Robotics, AI and Healthcare'
