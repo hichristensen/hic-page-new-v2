@@ -26,6 +26,15 @@ date_format: 'Jan 2006'
 
 experience: 
 
+  - title: 'Corporate Advisor'
+    company: 'Temasek Holdings'
+    company_url: 'https://www.temasek.com.sg'
+    company_logo: org-gc
+    location: 'Singapore, Singapore'
+    date_start: '2026-04-01'
+    date_end: ''
+    description: 'Advisor for robotics and AI'
+
   - title: 'Fellow'
     company: 'Temasek Holdings'
     company_url: 'https://www.temasek.com.sg'
@@ -41,7 +50,7 @@ experience:
     company_logo: org-gc
     location: 'San Carlos, California'
     date_start: '2019-04-01'
-    date_end: '2025-10-31'
+    date_end: ''
     description: 'Strategy / Business Development'
         
   - title:  'Distinguished Professor of Computer Science and Engineering'
