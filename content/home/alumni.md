@@ -39,6 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+- [Abdulaziz Almuzairee (Aziz)](https://aalmuzairee.github.io/) - Democratising Visual Robot Learning
 - [Jiaming Hu](https://www.linkedin.com/in/jiaming-hu-a04a28171/), Constraint based planning using manifolds
 - [Henry Zhang](https://henryzhangzhy.github.io/) (Bosch Research), Online Mapping
 - Chris D’Ambrosia, MD - Human Performance Assessment
