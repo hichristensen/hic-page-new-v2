@@ -4,6 +4,6 @@
  "cite"
  (lambda ()
    (LaTeX-add-bibitems
-    "patil-2026-gamms"))
+    "raheema-2026-chaser"))
  '(or :bibtex :latex))
 

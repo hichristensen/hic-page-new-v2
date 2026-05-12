@@ -16,15 +16,15 @@ publishDate: 2026-04-23T09:50:51-07:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arxiv"
-publication_short: ""
+publication: "3rd International COnference on Neuro-Symbolic Systems"
+publication_short: "3rd NEUS"
 
 abstract: "As intelligent systems and multi-agent coordination become increasingly central to real-world applications, there is a growing need for simulation tools that are both scalable and accessible. Existing high-fidelity simulators, while powerful, are often computationally expensive and ill-suited for rapid prototyping or large-scale agent deployments. We present GAMMS (Graph based Adversarial Multiagent Modeling Simulator), a lightweight yet extensible simulation framework designed to support fast development and evaluation of agent behavior in environments that can be represented as graphs. GAMMS emphasizes five core objectives: scalability, ease of use, integration-first architecture, fast visualization feedback, and real-world grounding. It enables efficient simulation of complex domains such as urban road networks and communication systems, supports integration with external tools (e.g., machine learning libraries, planning solvers), and provides built-in visualization with minimal configuration. GAMMS is agnostic to policy type, supporting heuristic, optimization-based, and learning-based agents, including those using large language models. By lowering the barrier to entry for researchers and enabling high-performance simulations on standard hardware, GAMMS facilitates experimentation and innovation in multi-agent systems, autonomous planning, and adversarial modeling. The framework is open-source and available at this [URL](https://github.com/GAMMSim/GAMMS/)"
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [DCIST]
 categories: [simulator]
 featured: false
 
