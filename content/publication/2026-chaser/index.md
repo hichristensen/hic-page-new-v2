@@ -36,8 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code
+url_pdf: https://hichristensen.com/publication/2026-chaser/paper.pdf
 url_dataset:
 url_poster:
 url_project:
