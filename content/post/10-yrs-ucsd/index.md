@@ -8,7 +8,7 @@ authors: [Henrik I. Christensen]
 tags: []
 categories: []
 date: 2026-08-09T15:44:27-07:00
-lastmod: 2026-08-09T15:44:27-07:00
+lastmod: 2026-08-09T16:34:27-07:00
 featured: false
 draft: false
 
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Grad Students"
+  caption: "Grad Students at celebration"
   focal_point: ""
   preview_only: false
 
@@ -36,15 +36,15 @@ It has been an interesting period. We launched the [Contextual Robotics
 Institute](https://cri.ucsd.edu), which today engages 40+ faculty, 130+ Ph.D.
 students, and hundreds of M.Sc. students. The student engagement is broad and
 very solid. These days where robotics, AI, Embodied AI, and Physical AI are
-keywords for AI/ML growth. The growth is solid and the exponential curve has no
+keywords for AI/ML growth. The evolution is solid and the exponential curve has no
 end in sight. This is very exciting.
 
 We have tried to launch robotics degrees as we had at Georgia Tech. However,
 department politics and financial conditions, has not been a good conduit for
-new degree programs. However, ECE's biggest specialization is robotics and
-CSE has by now 100+ student in the MS specialization. MAE has defined a
-mechatronics degree which has many robotics students. Overall growth has been
-impressive. Typically courses in robotics are 100% oversubscribed.
+new degree programs. However, ECE's biggest specialization is robotics and CSE
+has by now 150+ graduate student in the MS specialization. MAE has defined a
+mechatronics degree, that also has many robotics students. Overall growth has
+been impressive. Typically courses in robotics are 100% oversubscribed.
 
 The institute is doing well even if some of our core AI/ML researchers recently
 have departed for opportunities in industry, which is unavoidable when the
@@ -60,8 +60,8 @@ the basis for Physical Intelligence, SUDO, and Trusted Robot Intelligence (now
 part of META). In AVL we have designed micro-mobolity services for mail delivery
 on campus and transitioned technologies (and people) to Bosch, Nissan, Amazon,
 Waymo, Qualcomm, ... Overall the two research groups have generated more than
-130 publications or more than one per month, which was been very rewards. The
-most rewarding is of course the graduates that have move to great jobs at a
+130 publications or more than one per month, which has been very rewarding. The
+most rewarding is of course the graduates that have moved to great jobs at a
 variety of companies, where they are impacting the world.
 
 San Diego has daily ~20C/72F temperatures and 250+ days of sunshine, and the
