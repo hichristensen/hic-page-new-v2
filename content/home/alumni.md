@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 81
+weight: 83
 
 title: 'Graduated - PhDs'
 subtitle:
@@ -39,6 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+- [Bo Ai](https://albertboai.com/), Principled and Scalable ML methods (moved to Stanford)
 - [Abdulaziz Almuzairee (Aziz)](https://aalmuzairee.github.io/) - Democratising Visual Robot Learning
 - [Jiaming Hu](https://www.linkedin.com/in/jiaming-hu-a04a28171/), Constraint based planning using manifolds
 - [Henry Zhang](https://henryzhangzhy.github.io/) (Bosch Research), Online Mapping
