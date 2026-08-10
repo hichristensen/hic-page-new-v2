@@ -3,12 +3,12 @@
 
 title: "Anniversary - 10 years at UCSD"
 subtitle: ""
-summary: "July 1, 2026 I had been at UCSD for a decade. "
+summary: "July 1, 2026 I completed a decade at UCSD."
 authors: [Henrik I. Christensen]
 tags: []
 categories: []
 date: 2026-08-09T15:44:27-07:00
-lastmod: 2026-08-09T16:34:27-07:00
+lastmod: 2026-08-09T20:11:27-07:00
 featured: false
 draft: false
 
