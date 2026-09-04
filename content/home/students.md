@@ -44,6 +44,7 @@ design:
 <!-- [Yiding Qiu](https://www.linkedin.com/in/cassieqiuyd/), Graphical Mapping for Domestic Environments-->
 - [Stone Tao](https://www.stoneztao.com/), Simulation integrated machine learning 
 - [Julian Raheema](https://www.linkedin.com/in/julian-raheema-07827310/), Autonomy for Field Robots
+- [Yulin Liu](https://liuyulinn.github.io/) - Dexterous Sensor Based Manipulation
 - [Rohan Patil](https://rohanpatil.me/), Multi-Robot Planning Using Game Theory
 - [Seth Farrell](https://www.linkedin.com/in/sethfarrell/), Micro-Mobility Systems for Urban Environments
 - Luobin Wang, Behavior Planning for Autonomous Vehicles
@@ -55,3 +56,4 @@ design:
 - [Yang (Joyce) Jiao](https://www.linkedin.com/in/yang-joyce-jiao/), Multi-Robot Semantic Mapping
 - [Jiawei Fu](https://jayefu.github.io/), Data acquisition for platform agnostic learning 
 - [Weijun Dong](https://dwjshift.github.io/), ML for high performance robot manipulation 
+- [Yilin Wang](https://modric197.github.io/) Sim-to-Real robot manipulation and generative models. w. Zhouwen Tu
