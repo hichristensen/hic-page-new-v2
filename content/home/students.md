@@ -56,4 +56,5 @@ design:
 - [Yang (Joyce) Jiao](https://www.linkedin.com/in/yang-joyce-jiao/), Multi-Robot Semantic Mapping
 - [Jiawei Fu](https://jayefu.github.io/), Data acquisition for platform agnostic learning 
 - [Weijun Dong](https://dwjshift.github.io/), ML for high performance robot manipulation 
-- [Yilin Wang](https://modric197.github.io/) Sim-to-Real robot manipulation and generative models. w. Zhouwen Tu
+- [Yilin Wang](https://modric197.github.io/), Sim-to-Real robot manipulation and generative models. w. Zhouwen Tu
+- [Xi Chen](http://burningdust21.github.io), Visual Model Estimation
